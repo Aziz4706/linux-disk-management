@@ -1,7 +1,5 @@
 # Linux Disk Management Handbook
 
-> From zero to production troubleshooting: practical, beginner-friendly and production-oriented Linux disk management guide.
-
 ![Linux](https://img.shields.io/badge/Linux-Disk%20Management-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Production-success)
 ![Hands-on](https://img.shields.io/badge/Hands--on-Labs-orange)
@@ -67,7 +65,6 @@ Bu rehber aşağıdaki kişiler için uygundur:
 - Uygulama destek ekipleri
 - Sunucu üzerinde disk doluluğu, mount, filesystem veya LVM problemleri yaşayan herkes
 
-> Kısacası: Linux’ta “disk dolmuş abi” cümlesini duyunca paniklemek istemeyen herkes için.
 
 ---
 
@@ -103,8 +100,7 @@ Bu rehberi uygulamalı takip etmek için aşağıdaki ortamlardan biri yeterlidi
   - Hyper-V
   - Proxmox
 
-> Öneri: Uygulamaları production sunucuda değil, test sanal makinesinde yapın. Disk yönetimi şaka kaldırmaz; yanlış diske işlem yaparsanız sistem gider. Diskin kalbi yok, acımaz.
-
+> Öneri: Uygulamaları production sunucuda değil, test sanal makinesinde yapın. Disk yönetimi şaka kaldırmaz; yanlış diske işlem yaparsanız sistem gider.
 ### Örnek Lab Yapısı
 
 Bu rehberde örnek olarak şu disk yapısını kullanacağız:
