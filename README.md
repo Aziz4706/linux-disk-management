@@ -1,4 +1,4 @@
-# Linux Disk Management Handbook
+# Linux Disk Management
 
 ![Linux](https://img.shields.io/badge/Linux-Disk%20Management-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Production-success)
@@ -7,7 +7,7 @@
 
 ---
 
-## Bu Rehberin Amacı
+## Amaç
 
 Bu repo, Linux üzerinde disk yönetimini teorik temelden başlayarak gerçek sistem yönetimi senaryolarına kadar öğretmek için hazırlanmıştır.
 
