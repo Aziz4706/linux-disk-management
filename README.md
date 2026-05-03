@@ -1107,21 +1107,3 @@ Bu repo içinde ayrıca uygulamalı lab dosyaları bulunmaktadır:
 
 ---
 
-## Katkı
-
-Bu rehberi geliştirmek için issue veya pull request açabilirsiniz.
-
-Önerilen katkı başlıkları:
-
-- Yeni troubleshooting senaryoları
-- Distribution bazlı farklar
-- Cloud disk genişletme örnekleri
-- RAID ve mdadm bölümü
-- LUKS disk encryption bölümü
-- ZFS ve btrfs örnekleri
-
----
-
-## Lisans
-
-Bu repo MIT lisansı ile yayınlanmıştır.
